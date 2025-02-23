@@ -3,7 +3,7 @@
 ## Project Overview
 This is a **Spotify Clone** built using HTML and CSS, designed to mimic the user interface of the popular music streaming platform. It features a sleek, responsive design with a sidebar, music player, and various sections for browsing playlists, trending songs, and featured charts.
 
----
+---  
 
 ## Key Features
 
