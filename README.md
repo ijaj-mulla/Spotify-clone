@@ -13,7 +13,7 @@ This is a **Spotify Clone** built using HTML and CSS, designed to mimic the user
 
 ### ✅ Main Content Area:
 - **"Recently Played"** and **"Trending Now"** sections to showcase popular music.
-- **Featured playlists** with album covers and descriptions.
+- **Featured playlists** with album covers and descriptions. 
 
 ### ✅ Music Player:
 - **Album art** and **song details** displayed.
